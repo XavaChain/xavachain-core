@@ -45,3 +45,21 @@ Ensure you have the Optimism monorepo environment set up and `go` installed.
 chmod +x build-xava.sh
 ./build-xava.sh
 
+---
+
+### 3. Initialize Geth
+```bash
+geth init --datadir=./datadir genesis.json
+
+**🛡 Security & Governance**
+
+* *Guardian Address:* 0x4F707e337dfA90F559e02d598f072aBeA7179B1C
+
+* *System Owner:* Admin controlled via Proxy contracts.
+
+---
+
+**📄 License**
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
+*Built with ❤️ for the decentralized future.*
