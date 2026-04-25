@@ -1,0 +1,5 @@
+# OP Stack build files
+datadir/
+node_modules/
+.env
+
