@@ -46,6 +46,7 @@ chmod +x build-xava.sh
 ./build-xava.sh
 
 ---
+---
 
 ### 3. Initialize Geth
 ```bash
@@ -57,6 +58,7 @@ geth init --datadir=./datadir genesis.json
 
 * *System Owner:* Admin controlled via Proxy contracts.
 
+---
 ---
 
 **📄 License**
