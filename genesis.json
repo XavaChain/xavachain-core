@@ -1,0 +1,44 @@
+{
+  "config": {
+    "chainId": 8888,
+    "homesteadBlock": 0,
+    "eip150Block": 0,
+    "eip155Block": 0,
+    "eip158Block": 0,
+    "byzantiumBlock": 0,
+    "constantinopleBlock": 0,
+    "petersburgBlock": 0,
+    "istanbulBlock": 0,
+    "muirGlacierBlock": 0,
+    "berlinBlock": 0,
+    "londonBlock": 0,
+    "arrowGlacierBlock": 0,
+    "grayGlacierBlock": 0,
+    "mergeNetsplitBlock": 0,
+    "terminalTotalDifficulty": 0,
+    "terminalTotalDifficultyPassed": true,
+    "bedrockBlock": 0,
+    "regolithTime": 0,
+    "optimism": {
+      "l1ChainId": 11155111,
+      "l2ChainID": 8888,
+      "canyonTime": 0,
+      "deltaTime": 0,
+      "ecotoneTime": 0,
+      "fjordTime": 0,
+      "graniteTime": 0,
+      "holoceneTime": 0,
+      "eip1559Denominator": 50,
+      "eip1559DenominatorCanyon": 250,
+      "eip1559Elasticity": 10
+    }
+  },
+  "difficulty": "0",
+  "gasLimit": "30000000",
+  "alloc": {
+    "4F70034a706591350a41d7E609d70032906e5306": {
+      "balance": "1000000000000000000000000"
+    }
+  },
+  "timestamp": "0x0"
+}
