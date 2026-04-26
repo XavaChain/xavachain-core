@@ -1,9 +1,0 @@
-{
-  "l1ChainID": 11155111,
-  "l2ChainID": 8888,
-  "l2BlockTime": 2,
-  "p2pSequencerAddress": "0x4F70034a706591350a41d7E609d70032906e5306",
-  "batchInboxAddress": "0x0000000000000000000000000000000000000000",
-  "l1StartingBlockTag": "latest",
-  "enableGovernance": false
-}
