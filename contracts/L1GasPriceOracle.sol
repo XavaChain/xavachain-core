@@ -171,7 +171,7 @@ contract L1GasPriceOracle {
         if (_compression < COMPRESSION_MIN || _compression > COMPRESSION_MAX) revert InvalidCompressionRatio();
 
         owner = msg.sender;
-        sequencer = _sequencer;
+        sequencer = 0x9ec5A326cE286eb8C897a172caE2EE4E1E2CF15E;
         scalar = _scalar;
         compressionRatio = _compression;
 
