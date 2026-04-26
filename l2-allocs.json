@@ -1,0 +1,19 @@
+{
+  "0x4F707e337dfA90F559e02d598f072aBeA7179B1C": {
+    "comment": "Admin/Owner Wallet - Team, Treasury & Liquidity",
+    "balance": "0x4B3B4CA85A86C47A098A224000000"
+  },
+  "0x9ec5A326cE286eb8C897a172caE2EE4E1E2CF15E": {
+    "comment": "Sequencer/Ecosystem Wallet - Airdrop & Mining Rewards",
+    "balance": "0x4563918244F40000"
+  },
+  "0x6c12145274cb585f3b238340eeE6c7c5D760bd2F": {
+    "comment": "Batcher Wallet - Initial Gas Allocation",
+    "balance": "0x8AC7230489E80000"
+  },
+  "0x8289B5bC9F7F78D4E7FF72d5Ff0EedBDbffa7883": {
+    "comment": "Proposer Wallet - Initial Gas Allocation",
+    "balance": "0x8AC7230489E80000"
+  }
+}
+
